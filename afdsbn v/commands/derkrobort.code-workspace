@@ -1,0 +1,11 @@
+{
+	"folders": [
+		{
+			"path": "../../Pictures/New folder/New folder/New folder/New folder/derkrobort"
+		}
+	],
+	"settings": {
+		"java.configuration.updateBuildConfiguration": "automatic",
+		"java.server.launchMode": "Standard"
+	}
+}
